@@ -1,1 +1,3 @@
-![Celebrating Publication](Poster.pdf)
+<embed src="Poster.pdf" type="application/pdf">
+
+
