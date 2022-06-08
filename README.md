@@ -1,3 +1,3 @@
-<embed src="Poster.pdf" type="application/pdf">
+![Publication Celebration](Poster_page-0001.jpg)
 
 
